@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home_title">笔记</string>
+    <string name="home_action_add">新建笔记</string>
+    <string name="home_action_settings">设置</string>
+    <string name="home_action_delete">删除笔记</string>
+    <string name="home_empty_title">还没有笔记</string>
+    <string name="home_empty_message">点击加号按钮，写下第一条笔记。</string>
+    <string name="home_message_deleted">笔记已删除</string>
+    <string name="home_error_refresh_failed">刷新失败，已显示本地笔记。</string>
+</resources>

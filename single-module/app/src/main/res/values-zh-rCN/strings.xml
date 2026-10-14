@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">通用架构脚手架</string>
+    <string name="app_select_note_hint">选择一条笔记查看详情</string>
+</resources>

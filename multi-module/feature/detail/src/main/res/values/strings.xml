@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="detail_title_new">New note</string>
+    <string name="detail_title_edit">Edit note</string>
+    <string name="detail_label_title">Title</string>
+    <string name="detail_label_content">Content</string>
+    <string name="detail_action_save">Save</string>
+    <string name="detail_action_delete">Delete</string>
+    <string name="detail_error_title_empty">Title can\'t be empty</string>
+    <string name="detail_error_title_too_long">Title is too long (limit: %1$d)</string>
+    <string name="detail_error_content_too_long">Content is too long (limit: %1$d)</string>
+    <string name="detail_error_save_failed">Couldn\'t save the note. Please try again.</string>
+    <string name="detail_error_not_found">This note no longer exists</string>
+</resources>
